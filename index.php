@@ -5,8 +5,7 @@
 </head>
 <body>
 
- <? include 'header.php'?>
- <? include 'left_navbar.php'?>
+ 
 	 <!-- wrapper  -->
         <!-- ============================================================== -->
         <div class="dashboard-wrapper">
